@@ -1,1 +1,3 @@
-# teams-day-two
+# Teams Platform
+
+Shared infrastructure for tenants in our org.
